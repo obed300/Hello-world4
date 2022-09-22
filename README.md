@@ -1,6 +1,6 @@
 # Hello-world4
 
-> In this project repository was set to master all of the tools and best practices that I learnt about(Documenting repo in a professional way,Git & GitHub & GitHub Flow and Linters) in previous steps.
+> In this project, repository was set to master all of the tools and best practices that I learnt about(Documenting repo in a professional way,Git & GitHub & GitHub Flow and Linters) in previous steps.
 
 
 ## Built With
